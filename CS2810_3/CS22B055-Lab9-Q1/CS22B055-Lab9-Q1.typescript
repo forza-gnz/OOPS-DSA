@@ -1,0 +1,11 @@
+Script started on 2024-04-16 19:54:43+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="107" LINES="12"]
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab9-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab9-Q1[0m took [1;33m11ms[0m
+ [1;31m╰─λ[0m make L9Q1
+[?2004lmake: 'L9Q1' is up to date.
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab9-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab9-Q1[0m took [1;33m9ms[0m
+ [1;31m╰─λ[0m make L9Q1[K [Kcd CS22B055-Lab8-Q1lab8-Q1[C[C[C[C[Cls[Kcd CS22B055-lab8-Q1[C[C[C[C[Cls[Kcd CS2810[C[C[C[C[Cls[Kmakecd CS22B055-Lab7-Q1[C[C[C[C[C[C[C[C..[Kmv typescript RollNum-Labx-Q1.typescrip[C[C[C[C[Cscript[K./L6Q1   inp.txt ou.txt[C[C[C[C[Cmake[K./L6Q1   inp.txt ou.txt[C[C[C[C[Cmake[K./L6Q1   inp.txt ou.txt[C[C[C[C[Cmake[Kclear./L6Q1   inp.txt ou.txt[C[C[C[C[Cmake[K./L6Q1 < inp.txt[C[C[C[C[Cmake[K./L6Q1 < inp.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K.[Kexit 
+[?2004lexit
+
+Script done on 2024-04-16 19:55:31+05:30 [COMMAND_EXIT_CODE="0"]

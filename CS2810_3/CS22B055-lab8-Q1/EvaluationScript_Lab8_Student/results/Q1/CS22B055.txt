@@ -1,0 +1,13 @@
+Evaluating CS22B055-Lab8-Q1.cpp
+testcase 1 : FAIL : 0
+testcase 2 : FAIL : 0
+testcase 3 : FAIL : 0
+testcase 4 : FAIL : 0
+testcase 5 : FAIL : 0
+testcase 6 : FAIL : 0
+testcase 7 : FAIL : 0
+testcase 8 : FAIL : 0
+testcase 9 : FAIL : 0
+testcase 10 : FAIL : 0
+CS22B055-Lab8-Q1 - #TCs passed for CS22B055-Lab8-Q1.cpp: 0
+***
