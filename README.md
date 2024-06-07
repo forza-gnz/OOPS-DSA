@@ -1,3 +1,4 @@
 # forza-innovacion
 # Neeraj Bandhey
-# Under Graduate Student @ Indian Institute Of Technology, Madras
+# Computer Science UG Student @ Indian Institute Of Technology, Madras
+# Garduating in 2026 
