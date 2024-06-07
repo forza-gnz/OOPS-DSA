@@ -1,0 +1,10 @@
+Script started on 2024-03-12 17:47:22+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="127" LINES="10"]
+[?2004hcs22b055@kolam:~/Documents/C++/2810/lab6$ make L6Q1
+[?2004lmake: Warning: File 'L6Q1' has modification time 1715 s in the future
+make: 'L6Q1' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+[?2004hcs22b055@kolam:~/Documents/C++/2810/lab6$ ./L6Q1 inp1.txt out1.  [1P.txt out.txt
+[?2004l[?2004hcs22b055@kolam:~/Documents/C++/2810/lab6$ exit
+[?2004lexit
+
+Script done on 2024-03-12 17:47:58+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,19 @@
+Script started on 2024-03-12 19:03:07+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="92" LINES="12"]
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab6-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab6-Q1[0m via [1;38;5;149mC [0m[1;38;5;149mv13.2.1[0m[1;38;5;149m-[0m[1;38;5;149mgcc[0m[1;38;5;149m [0mtook [1;33m7ms[0m
+ [1;31m╰─λ[0m make l^Q[K[K[KL6Q1
+[?2004lmake: 'L6Q1' is up to date.
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab6-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab6-Q1[0m via [1;38;5;149mC [0m[1;38;5;149mv13.2.1[0m[1;38;5;149m-[0m[1;38;5;149mgcc[0m[1;38;5;149m [0mtook [1;33m9ms[0m
+ [1;31m╰─λ[0m ./L4Q1 input01.txt output01.txt
+[?2004lbash: ./L4Q1: No such file or directory
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab6-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab6-Q1[0m via [1;38;5;149mC [0m[1;38;5;149mv13.2.1[0m[1;38;5;149m-[0m[1;38;5;149mgcc[0m[1;38;5;149m [0mtook [1;33m5ms[0m
+[1;31m[[0m[1;31m🔍[0m[1;31m][0m [1;31m×[0m ./L6q[KQ1 4Q1 input01.txt output01.txt[1P[1@6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004led e  ^C^C
+]0;neeraj@forza:~/C++/CS2810/CS22B055-Lab6-Q1[?2004h
+ [1;31m╭─[0m[1;31mneeraj[0m@[1;2;31mforza[0m in [35m~/C++/CS2810/CS22B055-Lab6-Q1[0m via [1;38;5;149mC [0m[1;38;5;149mv13.2.1[0m[1;38;5;149m-[0m[1;38;5;149mgcc[0m[1;38;5;149m [0mtook [1;33m13s[0m
+[1;31m[[0m[1;31m🧱[0m[1;31m][0m [1;31m×[0m exit
+[?2004lexit
+
+Script done on 2024-03-12 19:04:25+05:30 [COMMAND_EXIT_CODE="130"]
